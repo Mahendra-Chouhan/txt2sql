@@ -1,4 +1,6 @@
-# Building a Text-to-SQL Agent from Scratch
+# Ask-your-database
+
+### Building a Text-to-SQL Agent from Scratch
 
 **LangChain + Gemini” a 90-minute, fully explainable build**
 
